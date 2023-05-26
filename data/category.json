@@ -1,0 +1,35 @@
+[
+    {
+        "categoryId": "1",
+        "name": "Dragon Toys"
+    },
+    {
+        "categoryId": "2",
+        "name": "Dog Toys"
+    },
+    {
+        "categoryId": "3",
+        "name": "Cat Toys"
+    },
+    
+    {
+        "categoryId": "4",
+        "name": "Elephant Toys"
+    },
+    {
+        "categoryId": "5",
+        "name": "Horse Toys"
+    },
+    {
+        "categoryId": "6",
+        "name": "Cow Toys"
+    },
+    {
+        "categoryId": "7",
+        "name": "Dinosur Toys"
+    },
+    {
+        "categoryId": "8",
+        "name": "Monkey Toys"
+    }
+]
